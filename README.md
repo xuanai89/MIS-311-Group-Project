@@ -1,6 +1,4 @@
-# MIS 311: Introduction to Business Analytics
-
-## Group Project: Student Sleep Pattern
+# Group Project: Student Sleep Pattern
 
 Dataset: Student Sleep Pattern
 
